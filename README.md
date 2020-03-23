@@ -2,8 +2,8 @@
 
 Objective was to use CRUD methods to create, read, update, and delete on a server side user application. 
 
-![ screenshot of application](https://github.com/asiahbennettdev/full-stack-user-one/blob/master/public/sc1.png)
-![ screenshot of application](https://github.com/asiahbennettdev/full-stack-user-one/blob/master/public/sc2.png)
+![ screenshot of application](https://github.com/asiahbennettdev/full-stack-user-two/blob/master/public/sc1.png)
+![ screenshot of application](https://github.com/asiahbennettdev/full-stack-user-two/blob/master/public/sc2.png)
 
 
 # How It's Made:
